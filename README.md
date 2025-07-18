@@ -35,6 +35,6 @@ Data from BTS (U.S. Bureau of Transportation Statistics) provided by internal te
 
 ## Contact
 
-> Analyst: [Juliet Fafali Kukuia]
+> Analyst: Juliet Fafali Kukuia
 > Team: getINNOtized Data Analytics  
 > Client: BTS – U.S. Department of Transportation
