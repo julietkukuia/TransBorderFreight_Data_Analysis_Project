@@ -84,6 +84,12 @@ Final deliverables include:
 * Identified inefficiencies and high-cost patterns across shipment types.
 * Integrated date modeling and created dynamic KPIs in Power BI.
 
+## Power BI Dashboard
+
+The Power BI dashboard is too large for GitHub upload.  
+You can access it [here via Google Drive](https://drive.google.com/file/d/1osH61oIAam52cyX-KpaCBwn5YSRFz7Hq/view?usp=drive_link).
+
+
 ## Project Structure
 
 ```
