@@ -87,7 +87,7 @@ Final deliverables include:
 ## Power BI Dashboard
 
 The Power BI dashboard is too large for GitHub upload.  
-You can access it [here via Google Drive](https://drive.google.com/file/d/1osH61oIAam52cyX-KpaCBwn5YSRFz7Hq/view?usp=drive_link).
+You can access it [here via Google Drive](https://drive.google.com/drive/folders/1oiCznsLBG4f0w8rSaJAzCrz1UFuW3cso?usp=drive_link).
 
 
 ## Project Structure
